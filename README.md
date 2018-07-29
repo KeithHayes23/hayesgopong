@@ -2,7 +2,7 @@
 Classic pong game written in golang compile to javavscript.
 
 
-![GoPong](https://raw.githubusercontent.com/KeithHayes23/hayesgopong/master/hayesgopong.png "HayesGoPong")
+![HayesGoPong](https://github.com/KeithHayes23/hayesgopong/blob/master/hayesgopong.png")
 
 # Compiling
 
