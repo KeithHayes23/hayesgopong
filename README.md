@@ -3,6 +3,8 @@ Classic pong game written in golang compile to javavscript.
 
 
 ![Screenshot](hayesgopong.png)
+![GitHub Logo](/hayesgopong.png)
+
 
 # Compiling
 
