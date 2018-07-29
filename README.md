@@ -1,5 +1,5 @@
 # hayesgopong
-Classic pong game written in golang compile to javavscript.
+Classic pong game written in golang compile to javavscript for viewing in a browser.
 
 
 ![Screenshot](hayesgopong.png)
