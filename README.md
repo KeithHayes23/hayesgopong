@@ -11,7 +11,8 @@ http://hayespong.s3-website-us-east-1.amazonaws.com/
 
 # Compiling
 
-Just install gopherjs and build with it.
+Install gopherjs and the supporting libraries.
+Build and Serve
 
 ```console
 $ go get github.com/gopherjs/gopherjs
