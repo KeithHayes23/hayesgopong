@@ -4,6 +4,11 @@ Classic pong game written in golang compile to javavscript.
 
 ![Screenshot](hayesgopong.png)
 
+
+Demo
+
+http://hayespong.s3-website-us-east-1.amazonaws.com/
+
 # Compiling
 
 Just install gopherjs and build with it.
