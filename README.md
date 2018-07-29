@@ -21,5 +21,6 @@ $ go get github.com/gopherjs/gopherwasm/js
 $ gopherjs build github.com/KeithHayes23/hayesgopong
 $ gopherjs serve github.com/KeithHayes23/hayesgopong
 
-Point your browser to
-http://localhost:8080
+Point your browser to:
+
+http://localhost:8080/
